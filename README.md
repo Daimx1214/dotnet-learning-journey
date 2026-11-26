@@ -28,7 +28,7 @@ I also practice competitive programming — 200+ problems solved on LeetCode and
 
 ## What's inside
 
-- **`notes/`** — 339 learning notes across C#, ASP.NET Core, EF Core, SQL Server and data structures & algorithms. Each note is a short, focused write-up of one concept.
+- **`notes/`** — 338 learning notes across C#, ASP.NET Core, EF Core, SQL Server and data structures & algorithms. Each note is a short, focused write-up of one concept.
 
 - **`examples/`** — Runnable C# code: two pointers, sliding window, binary search, recursion, sorting, LINQ queries, dynamic programming, LINQ deferred execution, graph traversal (BFS/DFS), heaps (with PriorityQueue), stacks/queues (with a balanced-brackets checker), tries (with insert, search and prefix search) and greedy algorithms (activity selection, coin change and fractional knapsack) and monotonic stacks (next greater element and largest rectangle in a histogram) and Bellman-Ford shortest paths (with negative weights and cycle detection) and segment trees with lazy propagation (range adds and range sums) and knapsack variants (0/1, unbounded and fractional) and AVL tree examples (insertions with rotations and balance checks) and edit distance (Levenshtein with full table and two-row optimization) and Kruskal's algorithm (Union-Find with path compression, MST total weight 8) and Dijkstra's algorithm (PriorityQueue, distances [0, 3, 1, 4, 7] and path reconstruction) and skip lists (search, insert and delete over randomized multi-level towers). Drop a file into a console project (or a C# script runner) and run it.
 
